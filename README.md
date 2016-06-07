@@ -1,4 +1,4 @@
-# Seattle JS Hackers
+# Seattle JS Hackers [![Gitter](https://badges.gitter.im/SeattleJSHackers/seattlejshackers.svg)](https://gitter.im/SeattleJSHackers/seattlejshackers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## Introduction
 
@@ -7,6 +7,7 @@
 **How we do it:** We organize hacking sessions at WiFi-ready offices, cafes and bars around Seattle each week. Our hacking sessions encourage peer ideation and review, knowledge sharing, new champions for causes and projects, personal productivity, and a heightened sense of community.
 
 If you want to to learn and hack with together, come join us!
+
 
 ## Getting Involved
 
