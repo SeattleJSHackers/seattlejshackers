@@ -74,6 +74,7 @@ We would love to build something cool with you. We keep track of all of the proj
 
 Here are some resources:
 
+  - [Hack Prompts](https://github.com/SeattleJSHackers/hack-prompts/blob/master/prompts.md)
   - [/r/somebodymakethis+somebodybuildthis](https://www.reddit.com/r/somebodymakethis+somebodybuildthis)
   - [/r/appideas](https://www.reddit.com/r/AppIdeas/)
   - [Lean Canvas](https://leanstack.com/lean-canvas/)
