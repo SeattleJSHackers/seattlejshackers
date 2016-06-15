@@ -53,6 +53,7 @@ We can help you find a job as a JavaScript developer. We can offer:
 
 Here are some resources:
 
+  - [Don't Call Yourself a Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
   - [CareerCup](https://www.careercup.com/)
   - [InterviewBit](https://www.interviewbit.com)
   - [Find Your Dream Job](http://www.iwillteachyoutoberich.com/find-your-dream-job/)
