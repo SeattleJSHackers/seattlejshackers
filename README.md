@@ -1,4 +1,4 @@
-# Seattle JS Hackers [![Gitter](https://badges.gitter.im/SeattleJSHackers/seattlejshackers.svg)](https://gitter.im/SeattleJSHackers/seattlejshackers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+# Seattle JS Hackers [![Slack](http://i.imgur.com/7zKAGgf.png)](https://seattlejshackers.slack.com/shared_invite/MTcxMTI1NDM5NjU1LTE0OTI0Nzg3MzktNzA4ZTM5OTQ3Yg)
 
 ## Introduction
 
