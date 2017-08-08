@@ -43,7 +43,7 @@ We would ask that you:
 
   1. Keep track of your progress. Keep a journal or list of what you learn.
   2. Share your knowledge and learnings with other learners in the group!
-  3. Consider taking one of our [paid courses](http://www.galvanize.com/courses/javascript-foundations/), especially if you're looking for a more focused approach.
+  3. Consider taking a paid course, especially if you're looking for a more focused approach.
 
 
 ### Find a Job
