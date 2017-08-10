@@ -1,5 +1,7 @@
 # Seattle JS Hackers [![Slack](http://i.imgur.com/7zKAGgf.png)](https://seattlejshackers.slack.com/shared_invite/MTcxMTI1NDM5NjU1LTE0OTI0Nzg3MzktNzA4ZTM5OTQ3Yg)
 
+[![Join the chat at https://gitter.im/SeattleJSHackers/seattlejshackers](https://badges.gitter.im/SeattleJSHackers/seattlejshackers.svg)](https://gitter.im/SeattleJSHackers/seattlejshackers?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Introduction
 
 **Seattle JS Hackers** is an open and inclusive after-hours community of JavaScript hackers who learn and hack in JavaScript together. We are entrepreneurs, creatives, professionals, tinkerers, computer scientists, educators, marketers, and more -- all working to ignite and amplify our personal productivity and collaboration.
