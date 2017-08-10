@@ -35,6 +35,7 @@ Here are some resources to get started:
 - **Videos:**
     - [LearnCode.Academy](http://learncode.academy/) (and [this playlist](https://www.youtube.com/watch?v=JEq7Ehw-qk8&list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_), in particular)
     - [What the Heck Is the Event Loop, Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (more advanced)
+    - [Git from the Bits Up](https://www.youtube.com/watch?v=MYP56QJpDr4) (essential for understanding Git)
 - **Exercises / Challenges**
     - [Project Euler](https://projecteuler.net/) (pronounced oy-ler)
     - [Advent of Code](http://adventofcode.com/) (festive code challenges)
