@@ -57,6 +57,7 @@ We can help you find a job as a JavaScript developer. We can offer:
 
 Here are some resources:
 
+  - [Resume Advice](http://www.joshuathehutt.com/?utm_source=github&utm_medium=link&utm_campaign=resume_advice&utm_content=seattle_js_hackers#!/blog/resume-advice)
   - [Don't Call Yourself a Programmer](http://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
   - [CareerCup](https://www.careercup.com/)
   - [InterviewBit](https://www.interviewbit.com)
