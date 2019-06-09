@@ -37,9 +37,8 @@ Here are some resources to get started:
     - [What the Heck Is the Event Loop, Anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) (more advanced)
     - [Git from the Bits Up](https://www.youtube.com/watch?v=MYP56QJpDr4) (essential for understanding Git)
 - **Articles**
-    - [https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
-    - [Taming the asynchronous beast with ES7
-](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
+    - [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+    - [Taming the asynchronous beast with ES7](https://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html)
 - **Exercises / Challenges**
     - [Project Euler](https://projecteuler.net/) (pronounced oy-ler)
     - [Advent of Code](http://adventofcode.com/) (festive code challenges)
