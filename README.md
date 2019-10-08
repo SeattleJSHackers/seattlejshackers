@@ -1,4 +1,4 @@
-# Seattle JS Hackers [![Slack](http://i.imgur.com/7zKAGgf.png)](https://seattlejshackers.slack.com/shared_invite/MTcxMTI1NDM5NjU1LTE0OTI0Nzg3MzktNzA4ZTM5OTQ3Yg)
+# Seattle JS Hackers [![Slack](http://i.imgur.com/7zKAGgf.png)](https://join.slack.com/t/seattlejshackers/shared_invite/enQtMzYzMDcwNzQ3Nzk0LTcxZDI5NjA1MjIwYzdkYjQ5ZDhhYjVlNzg1MjljZTg5NjU1YTRlYzhjMjNiZTQ0Y2NkMGRkOTQ2N2Q2N2VjYzU)
 
 ## Introduction
 
